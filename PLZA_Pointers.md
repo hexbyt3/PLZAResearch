@@ -35,8 +35,15 @@ Used for detecting menu/UI state. Returns 1 byte.
 - `0x01` = Player in overworld (can move freely, no menus open)
 - `0x00` = Menu open or player movement blocked
 
+**Pointer (recommended):**
 ```
-[main+5F58488]+0B
+[main+3CC4D30]+110
+```
+
+**Alternative pointers:**
+```
+[main+3CE0208]+E0
+[main+3CC5100]+130
 ```
 
 ---
