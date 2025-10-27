@@ -55,6 +55,26 @@ Used for detecting if the player is connected to Nintendo Switch Online. Returns
 
 ---
 
+## Link Trade Partner Pokemon
+
+Points to the Pokemon offered by the trade partner during Link Trades. Returns 344 bytes (0x158).
+
+**Pointer (recommended - same region as Box data):**
+```
+[[[main+5F0E2B0]+128]+30
+```
+
+**Alternative pointers:**
+```
+[[[main+45E5960]+100]+30
+[[[main+45E67E0]+88]+30
+[[main+45E67E0]+A8]
+```
+
+**Note:** The recommended pointer base (0x5F0E2B0) is very close to BoxStartPointer (0x5F0B250), indicating it's in the same stable memory region.
+
+---
+
 ## Trade Partner Trainer Status
 
 Points to the trade partner's trainer information (TID/SID/Name) during Link Trades.
