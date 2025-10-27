@@ -55,4 +55,24 @@ Used for detecting if the player is connected to Nintendo Switch Online. Returns
 
 ---
 
+## Trade Partner Trainer Status
+
+Points to the trade partner's trainer information (TID/SID/Name) during Link Trades.
+
+**Note:** ID32 (combined TID16+SID16) is located at offset +0x74 within the structure these pointers reference.
+
+### Trader 1 Status
+```
+[[[[main+3EFD058]+1D8]+180]+80]+74
+```
+
+### Trader 2 Status
+```
+[[[[main+3EFD058]+1E8]+180]+80]+74
+```
+
+**Pattern:** Both pointers share the same base (0x3EFD058) and differ only at the second level (0x1D8 vs 0x1E8, 16 bytes apart).
+
+---
+
 *Last updated: 2025-10-27*
