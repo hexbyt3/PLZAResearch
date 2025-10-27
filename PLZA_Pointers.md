@@ -27,4 +27,18 @@ Memory pointer chains for Pokemon Legends: Z-A.
 
 ---
 
+## Overworld State
+
+Used for detecting menu/UI state. Returns 1 byte.
+
+**Value meanings:**
+- `0x01` = Player in overworld (can move freely, no menus open)
+- `0x00` = Menu open or player movement blocked
+
+```
+[main+5F58488]+0B
+```
+
+---
+
 *Last updated: 2025-10-27*
