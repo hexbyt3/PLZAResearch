@@ -1,0 +1,14 @@
+{
+  "key": "0x2A192063",
+  "key_decimal": 706289763,
+  "name": "Unknown_2A192063",
+  "is_unknown": true,
+  "type": "Object",
+  "subtype": null,
+  "size": 3072,
+  "size_hex": "0xC00",
+  "analysis_hints": {
+    "first_bytes_hex": "30-00-00-00-FF-FF-FF-FF-00-00-00-00-2F-00-00-00",
+    "size_note": "Size is divisible by 4 (768 potential u32 values)"
+  }
+}

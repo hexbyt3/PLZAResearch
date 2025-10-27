@@ -1,0 +1,11 @@
+{
+  "key": "0x1D7EE369",
+  "key_decimal": 494855017,
+  "name": "TicketPointsZARoyaleInfinite",
+  "is_unknown": false,
+  "type": "UInt32",
+  "subtype": null,
+  "size": 4,
+  "size_hex": "0x4",
+  "analysis_hints": null
+}

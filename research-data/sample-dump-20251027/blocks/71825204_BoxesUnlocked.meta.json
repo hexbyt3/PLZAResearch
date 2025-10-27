@@ -1,0 +1,11 @@
+{
+  "key": "0x71825204",
+  "key_decimal": 1904366084,
+  "name": "BoxesUnlocked",
+  "is_unknown": false,
+  "type": "Byte",
+  "subtype": null,
+  "size": 1,
+  "size_hex": "0x1",
+  "analysis_hints": null
+}

@@ -1,0 +1,11 @@
+{
+  "key": "0xE3E89BD1",
+  "key_decimal": 3823672273,
+  "name": "MyStatus",
+  "is_unknown": false,
+  "type": "Object",
+  "subtype": null,
+  "size": 120,
+  "size_hex": "0x78",
+  "analysis_hints": null
+}

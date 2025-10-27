@@ -1,0 +1,11 @@
+{
+  "key": "0x5E8E1711",
+  "key_decimal": 1586370321,
+  "name": "OverworldData",
+  "is_unknown": false,
+  "type": "Object",
+  "subtype": null,
+  "size": 165000,
+  "size_hex": "0x28488",
+  "analysis_hints": null
+}

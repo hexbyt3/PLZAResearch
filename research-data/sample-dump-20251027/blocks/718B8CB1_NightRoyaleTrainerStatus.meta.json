@@ -1,0 +1,11 @@
+{
+  "key": "0x718B8CB1",
+  "key_decimal": 1904970929,
+  "name": "NightRoyaleTrainerStatus",
+  "is_unknown": false,
+  "type": "Object",
+  "subtype": null,
+  "size": 2048,
+  "size_hex": "0x800",
+  "analysis_hints": null
+}

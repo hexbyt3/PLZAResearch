@@ -1,0 +1,11 @@
+{
+  "key": "0x017C3CBB",
+  "key_decimal": 24919227,
+  "name": "CurrentBoxIndex",
+  "is_unknown": false,
+  "type": "Byte",
+  "subtype": null,
+  "size": 1,
+  "size_hex": "0x1",
+  "analysis_hints": null
+}

@@ -1,0 +1,11 @@
+{
+  "key": "0x8D80EC0F",
+  "key_decimal": 2374036495,
+  "name": "EventWork2",
+  "is_unknown": false,
+  "type": "Object",
+  "subtype": null,
+  "size": 1024,
+  "size_hex": "0x400",
+  "analysis_hints": null
+}

@@ -1,0 +1,14 @@
+{
+  "key": "0x10B0677E",
+  "key_decimal": 279996286,
+  "name": "Unknown_10B0677E",
+  "is_unknown": true,
+  "type": "Object",
+  "subtype": null,
+  "size": 320,
+  "size_hex": "0x140",
+  "analysis_hints": {
+    "first_bytes_hex": "0F-00-00-00-00-00-00-00-0E-00-00-00-00-00-00-00",
+    "size_note": "Size is divisible by 4 (80 potential u32 values)"
+  }
+}

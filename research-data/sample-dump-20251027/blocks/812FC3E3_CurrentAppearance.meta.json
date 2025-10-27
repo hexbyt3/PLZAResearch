@@ -1,0 +1,11 @@
+{
+  "key": "0x812FC3E3",
+  "key_decimal": 2167391203,
+  "name": "CurrentAppearance",
+  "is_unknown": false,
+  "type": "Object",
+  "subtype": null,
+  "size": 72,
+  "size_hex": "0x48",
+  "analysis_hints": null
+}

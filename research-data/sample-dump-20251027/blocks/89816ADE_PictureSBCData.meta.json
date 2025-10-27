@@ -1,0 +1,11 @@
+{
+  "key": "0x89816ADE",
+  "key_decimal": 2306960094,
+  "name": "PictureSBCData",
+  "is_unknown": false,
+  "type": "Object",
+  "subtype": null,
+  "size": 131072,
+  "size_hex": "0x20000",
+  "analysis_hints": null
+}

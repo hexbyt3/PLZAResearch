@@ -1,0 +1,14 @@
+{
+  "key": "0x10789EC8",
+  "key_decimal": 276340424,
+  "name": "Unknown_10789EC8",
+  "is_unknown": true,
+  "type": "UInt32",
+  "subtype": null,
+  "size": 4,
+  "size_hex": "0x4",
+  "analysis_hints": {
+    "first_bytes_hex": "A8-41-01-00",
+    "possible_type": "Might be a single u32/i32/float value"
+  }
+}

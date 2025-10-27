@@ -1,0 +1,11 @@
+{
+  "key": "0x48064544",
+  "key_decimal": 1208370500,
+  "name": "PictureCurrentData",
+  "is_unknown": false,
+  "type": "Object",
+  "subtype": null,
+  "size": 189144,
+  "size_hex": "0x2E2D8",
+  "analysis_hints": null
+}

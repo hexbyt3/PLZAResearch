@@ -1,0 +1,11 @@
+{
+  "key": "0x58505C5E",
+  "key_decimal": 1481661534,
+  "name": "EventFlag",
+  "is_unknown": false,
+  "type": "Object",
+  "subtype": null,
+  "size": 32768,
+  "size_hex": "0x8000",
+  "analysis_hints": null
+}

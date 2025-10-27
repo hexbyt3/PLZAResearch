@@ -1,0 +1,14 @@
+{
+  "key": "0x41D869BD",
+  "key_decimal": 1104701885,
+  "name": "Unknown_41D869BD",
+  "is_unknown": true,
+  "type": "UInt32",
+  "subtype": null,
+  "size": 4,
+  "size_hex": "0x4",
+  "analysis_hints": {
+    "first_bytes_hex": "04-00-00-00",
+    "possible_type": "Might be a single u32/i32/float value"
+  }
+}

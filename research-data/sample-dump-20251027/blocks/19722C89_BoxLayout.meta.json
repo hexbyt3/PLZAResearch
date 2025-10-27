@@ -1,0 +1,11 @@
+{
+  "key": "0x19722C89",
+  "key_decimal": 426912905,
+  "name": "BoxLayout",
+  "is_unknown": false,
+  "type": "Array",
+  "subtype": "UInt16",
+  "size": 1088,
+  "size_hex": "0x440",
+  "analysis_hints": null
+}

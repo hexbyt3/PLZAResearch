@@ -1,0 +1,15 @@
+{
+  "key": "0x21BB87D5",
+  "key_decimal": 565938133,
+  "name": "Unknown_21BB87D5",
+  "is_unknown": true,
+  "type": "Object",
+  "subtype": null,
+  "size": 24,
+  "size_hex": "0x18",
+  "analysis_hints": {
+    "mostly_zeros": "95.8% zeros (possibly unused/cleared data)",
+    "first_bytes_hex": "01-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00",
+    "size_note": "Size is divisible by 4 (6 potential u32 values)"
+  }
+}

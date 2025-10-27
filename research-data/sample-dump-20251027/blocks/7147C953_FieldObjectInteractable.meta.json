@@ -1,0 +1,11 @@
+{
+  "key": "0x7147C953",
+  "key_decimal": 1900530003,
+  "name": "FieldObjectInteractable",
+  "is_unknown": false,
+  "type": "Object",
+  "subtype": null,
+  "size": 160000,
+  "size_hex": "0x27100",
+  "analysis_hints": null
+}

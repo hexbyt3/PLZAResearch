@@ -1,0 +1,15 @@
+{
+  "key": "0x835F3F37",
+  "key_decimal": 2204057399,
+  "name": "Unknown_835F3F37",
+  "is_unknown": true,
+  "type": "UInt32",
+  "subtype": null,
+  "size": 4,
+  "size_hex": "0x4",
+  "analysis_hints": {
+    "mostly_zeros": "100.0% zeros (possibly unused/cleared data)",
+    "first_bytes_hex": "00-00-00-00",
+    "possible_type": "Might be a single u32/i32/float value"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "key": "0x7B70DA66",
+  "key_decimal": 2070993510,
+  "name": "TimeSecondsPastMidnight",
+  "is_unknown": false,
+  "type": "Single",
+  "subtype": null,
+  "size": 4,
+  "size_hex": "0x4",
+  "analysis_hints": null
+}

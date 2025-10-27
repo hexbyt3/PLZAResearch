@@ -1,0 +1,14 @@
+{
+  "key": "0xAB54C91A",
+  "key_decimal": 2874460442,
+  "name": "Unknown_AB54C91A",
+  "is_unknown": true,
+  "type": "Object",
+  "subtype": null,
+  "size": 384,
+  "size_hex": "0x180",
+  "analysis_hints": {
+    "first_bytes_hex": "FE-6D-85-2A-31-2B-5D-32-00-00-00-00-00-00-F0-BF",
+    "size_note": "Size is divisible by 4 (96 potential u32 values)"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "key": "0x33F39467",
+  "key_decimal": 871601255,
+  "name": "TeamIndexes",
+  "is_unknown": false,
+  "type": "Array",
+  "subtype": "UInt16",
+  "size": 72,
+  "size_hex": "0x48",
+  "analysis_hints": null
+}

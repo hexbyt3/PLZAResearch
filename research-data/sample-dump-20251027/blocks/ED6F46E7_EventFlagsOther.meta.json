@@ -1,0 +1,11 @@
+{
+  "key": "0xED6F46E7",
+  "key_decimal": 3983492839,
+  "name": "EventFlagsOther",
+  "is_unknown": false,
+  "type": "Object",
+  "subtype": null,
+  "size": 32768,
+  "size_hex": "0x8000",
+  "analysis_hints": null
+}

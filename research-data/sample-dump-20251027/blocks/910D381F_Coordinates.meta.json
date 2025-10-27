@@ -1,0 +1,11 @@
+{
+  "key": "0x910D381F",
+  "key_decimal": 2433562655,
+  "name": "Coordinates",
+  "is_unknown": false,
+  "type": "Object",
+  "subtype": null,
+  "size": 112,
+  "size_hex": "0x70",
+  "analysis_hints": null
+}

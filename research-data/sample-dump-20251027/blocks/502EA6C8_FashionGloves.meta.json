@@ -1,0 +1,11 @@
+{
+  "key": "0x502EA6C8",
+  "key_decimal": 1345234632,
+  "name": "FashionGloves",
+  "is_unknown": false,
+  "type": "Object",
+  "subtype": null,
+  "size": 1600,
+  "size_hex": "0x640",
+  "analysis_hints": null
+}

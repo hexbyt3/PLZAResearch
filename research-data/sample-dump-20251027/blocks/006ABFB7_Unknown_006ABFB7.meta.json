@@ -1,0 +1,15 @@
+{
+  "key": "0x006ABFB7",
+  "key_decimal": 6995895,
+  "name": "Unknown_006ABFB7",
+  "is_unknown": true,
+  "type": "UInt32",
+  "subtype": null,
+  "size": 4,
+  "size_hex": "0x4",
+  "analysis_hints": {
+    "mostly_zeros": "100.0% zeros (possibly unused/cleared data)",
+    "first_bytes_hex": "00-00-00-00",
+    "possible_type": "Might be a single u32/i32/float value"
+  }
+}

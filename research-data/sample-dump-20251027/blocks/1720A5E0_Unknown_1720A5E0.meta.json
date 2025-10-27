@@ -1,0 +1,16 @@
+{
+  "key": "0x1720A5E0",
+  "key_decimal": 388015584,
+  "name": "Unknown_1720A5E0",
+  "is_unknown": true,
+  "type": "Object",
+  "subtype": null,
+  "size": 1024,
+  "size_hex": "0x400",
+  "analysis_hints": {
+    "mostly_zeros": "100.0% zeros (possibly unused/cleared data)",
+    "pattern": "Repeating 4-byte pattern: 00-00-00-00",
+    "first_bytes_hex": "00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00",
+    "size_note": "Size is divisible by 4 (256 potential u32 values)"
+  }
+}

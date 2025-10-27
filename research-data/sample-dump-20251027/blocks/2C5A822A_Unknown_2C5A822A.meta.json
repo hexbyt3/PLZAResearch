@@ -1,0 +1,15 @@
+{
+  "key": "0x2C5A822A",
+  "key_decimal": 744129066,
+  "name": "Unknown_2C5A822A",
+  "is_unknown": true,
+  "type": "UInt64",
+  "subtype": null,
+  "size": 8,
+  "size_hex": "0x8",
+  "analysis_hints": {
+    "mostly_zeros": "100.0% zeros (possibly unused/cleared data)",
+    "first_bytes_hex": "00-00-00-00-00-00-00-00",
+    "possible_type": "Might be a u64/i64/double or two u32 values"
+  }
+}

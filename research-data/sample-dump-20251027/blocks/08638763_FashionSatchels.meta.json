@@ -1,0 +1,11 @@
+{
+  "key": "0x08638763",
+  "key_decimal": 140740451,
+  "name": "FashionSatchels",
+  "is_unknown": false,
+  "type": "Object",
+  "subtype": null,
+  "size": 1600,
+  "size_hex": "0x640",
+  "analysis_hints": null
+}

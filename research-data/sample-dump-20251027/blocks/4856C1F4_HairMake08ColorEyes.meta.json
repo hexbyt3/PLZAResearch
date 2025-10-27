@@ -1,0 +1,11 @@
+{
+  "key": "0x4856C1F4",
+  "key_decimal": 1213645300,
+  "name": "HairMake08ColorEyes",
+  "is_unknown": false,
+  "type": "Object",
+  "subtype": null,
+  "size": 512,
+  "size_hex": "0x200",
+  "analysis_hints": null
+}

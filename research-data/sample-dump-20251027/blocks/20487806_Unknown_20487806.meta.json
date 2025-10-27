@@ -1,0 +1,16 @@
+{
+  "key": "0x20487806",
+  "key_decimal": 541620230,
+  "name": "Unknown_20487806",
+  "is_unknown": true,
+  "type": "Object",
+  "subtype": null,
+  "size": 68,
+  "size_hex": "0x44",
+  "analysis_hints": {
+    "mostly_zeros": "100.0% zeros (possibly unused/cleared data)",
+    "pattern": "Repeating 4-byte pattern: 00-00-00-00",
+    "first_bytes_hex": "00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00",
+    "size_note": "Size is divisible by 4 (17 potential u32 values)"
+  }
+}

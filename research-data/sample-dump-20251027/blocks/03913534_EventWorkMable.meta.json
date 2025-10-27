@@ -1,0 +1,11 @@
+{
+  "key": "0x03913534",
+  "key_decimal": 59847988,
+  "name": "EventWorkMable",
+  "is_unknown": false,
+  "type": "Object",
+  "subtype": null,
+  "size": 16384,
+  "size_hex": "0x4000",
+  "analysis_hints": null
+}

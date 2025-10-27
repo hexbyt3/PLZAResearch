@@ -1,0 +1,14 @@
+{
+  "key": "0x1866780C",
+  "key_decimal": 409368588,
+  "name": "Unknown_1866780C",
+  "is_unknown": true,
+  "type": "Object",
+  "subtype": null,
+  "size": 228,
+  "size_hex": "0xE4",
+  "analysis_hints": {
+    "first_bytes_hex": "01-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00",
+    "size_note": "Size is divisible by 4 (57 potential u32 values)"
+  }
+}

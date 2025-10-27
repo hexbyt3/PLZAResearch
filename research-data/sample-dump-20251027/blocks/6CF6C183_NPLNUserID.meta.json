@@ -1,0 +1,11 @@
+{
+  "key": "0x6CF6C183",
+  "key_decimal": 1828110723,
+  "name": "NPLNUserID",
+  "is_unknown": false,
+  "type": "Object",
+  "subtype": null,
+  "size": 29,
+  "size_hex": "0x1D",
+  "analysis_hints": null
+}

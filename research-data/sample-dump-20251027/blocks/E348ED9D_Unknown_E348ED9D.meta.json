@@ -1,0 +1,13 @@
+{
+  "key": "0xE348ED9D",
+  "key_decimal": 3813207453,
+  "name": "Unknown_E348ED9D",
+  "is_unknown": true,
+  "type": "Bool2",
+  "subtype": null,
+  "size": 0,
+  "size_hex": "0x0",
+  "analysis_hints": {
+    "note": "Empty block"
+  }
+}

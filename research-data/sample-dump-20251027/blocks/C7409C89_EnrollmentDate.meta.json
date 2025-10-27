@@ -1,0 +1,11 @@
+{
+  "key": "0xC7409C89",
+  "key_decimal": 3342900361,
+  "name": "EnrollmentDate",
+  "is_unknown": false,
+  "type": "Object",
+  "subtype": null,
+  "size": 4,
+  "size_hex": "0x4",
+  "analysis_hints": null
+}

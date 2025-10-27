@@ -1,0 +1,14 @@
+{
+  "key": "0x5CD6F27B",
+  "key_decimal": 1557590651,
+  "name": "Unknown_5CD6F27B",
+  "is_unknown": true,
+  "type": "UInt32",
+  "subtype": null,
+  "size": 4,
+  "size_hex": "0x4",
+  "analysis_hints": {
+    "first_bytes_hex": "01-00-00-00",
+    "possible_type": "Might be a single u32/i32/float value"
+  }
+}

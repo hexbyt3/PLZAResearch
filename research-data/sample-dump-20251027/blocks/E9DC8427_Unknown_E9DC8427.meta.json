@@ -1,0 +1,14 @@
+{
+  "key": "0xE9DC8427",
+  "key_decimal": 3923543079,
+  "name": "Unknown_E9DC8427",
+  "is_unknown": true,
+  "type": "Object",
+  "subtype": null,
+  "size": 256,
+  "size_hex": "0x100",
+  "analysis_hints": {
+    "first_bytes_hex": "74-31-00-00-00-00-00-00-00-00-00-00-00-00-00-00",
+    "size_note": "Size is divisible by 4 (64 potential u32 values)"
+  }
+}

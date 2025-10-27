@@ -1,0 +1,11 @@
+{
+  "key": "0x654FCD1E",
+  "key_decimal": 1699728670,
+  "name": "StoredEventEntity",
+  "is_unknown": false,
+  "type": "Object",
+  "subtype": null,
+  "size": 54272,
+  "size_hex": "0xD400",
+  "analysis_hints": null
+}

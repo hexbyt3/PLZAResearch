@@ -1,0 +1,14 @@
+{
+  "key": "0xE2CC4DC7",
+  "key_decimal": 3805040071,
+  "name": "Unknown_E2CC4DC7",
+  "is_unknown": true,
+  "type": "UInt32",
+  "subtype": null,
+  "size": 4,
+  "size_hex": "0x4",
+  "analysis_hints": {
+    "first_bytes_hex": "04-00-00-00",
+    "possible_type": "Might be a single u32/i32/float value"
+  }
+}

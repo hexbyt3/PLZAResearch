@@ -1,0 +1,11 @@
+{
+  "key": "0x356087AD",
+  "key_decimal": 895518637,
+  "name": "NightRoyalePostBattleRewards",
+  "is_unknown": false,
+  "type": "Object",
+  "subtype": null,
+  "size": 8192,
+  "size_hex": "0x2000",
+  "analysis_hints": null
+}

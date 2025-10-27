@@ -1,0 +1,14 @@
+{
+  "key": "0xE9A56AA6",
+  "key_decimal": 3919932070,
+  "name": "Unknown_E9A56AA6",
+  "is_unknown": true,
+  "type": "UInt64",
+  "subtype": null,
+  "size": 8,
+  "size_hex": "0x8",
+  "analysis_hints": {
+    "first_bytes_hex": "73-FE-34-01-00-00-00-00",
+    "possible_type": "Might be a u64/i64/double or two u32 values"
+  }
+}

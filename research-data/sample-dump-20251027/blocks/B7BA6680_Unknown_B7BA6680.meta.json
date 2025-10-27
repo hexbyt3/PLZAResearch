@@ -1,0 +1,13 @@
+{
+  "key": "0xB7BA6680",
+  "key_decimal": 3082446464,
+  "name": "Unknown_B7BA6680",
+  "is_unknown": true,
+  "type": "Object",
+  "subtype": null,
+  "size": 1,
+  "size_hex": "0x1",
+  "analysis_hints": {
+    "first_bytes_hex": "06"
+  }
+}

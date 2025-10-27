@@ -1,0 +1,15 @@
+{
+  "key": "0x6F11121F",
+  "key_decimal": 1863389727,
+  "name": "Unknown_6F11121F",
+  "is_unknown": true,
+  "type": "Object",
+  "subtype": null,
+  "size": 128,
+  "size_hex": "0x80",
+  "analysis_hints": {
+    "pattern": "Repeating 4-byte pattern: 00-00-80-BF",
+    "first_bytes_hex": "00-00-80-BF-00-00-80-BF-00-00-80-BF-00-00-80-BF",
+    "size_note": "Size is divisible by 4 (32 potential u32 values)"
+  }
+}

@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net9.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <AssemblyName>PLZASaveDumper</AssemblyName>
+    <RootNamespace>PLZASaveDumper</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="PKHeX.Core">
+      <HintPath>lib\PKHeX.Core.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

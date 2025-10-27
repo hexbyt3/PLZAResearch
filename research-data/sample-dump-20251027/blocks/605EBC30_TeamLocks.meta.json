@@ -1,0 +1,11 @@
+{
+  "key": "0x605EBC30",
+  "key_decimal": 1616821296,
+  "name": "TeamLocks",
+  "is_unknown": false,
+  "type": "Byte",
+  "subtype": null,
+  "size": 1,
+  "size_hex": "0x1",
+  "analysis_hints": null
+}

@@ -1,0 +1,14 @@
+{
+  "key": "0x9AD85DFD",
+  "key_decimal": 2597871101,
+  "name": "Unknown_9AD85DFD",
+  "is_unknown": true,
+  "type": "UInt32",
+  "subtype": null,
+  "size": 4,
+  "size_hex": "0x4",
+  "analysis_hints": {
+    "first_bytes_hex": "02-00-00-00",
+    "possible_type": "Might be a single u32/i32/float value"
+  }
+}

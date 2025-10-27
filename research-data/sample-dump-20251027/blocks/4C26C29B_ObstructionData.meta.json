@@ -1,0 +1,11 @@
+{
+  "key": "0x4C26C29B",
+  "key_decimal": 1277608603,
+  "name": "ObstructionData",
+  "is_unknown": false,
+  "type": "Object",
+  "subtype": null,
+  "size": 24000,
+  "size_hex": "0x5DC0",
+  "analysis_hints": null
+}

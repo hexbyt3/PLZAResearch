@@ -1,0 +1,15 @@
+{
+  "key": "0x6BE9A4DA",
+  "key_decimal": 1810474202,
+  "name": "Unknown_6BE9A4DA",
+  "is_unknown": true,
+  "type": "UInt64",
+  "subtype": null,
+  "size": 8,
+  "size_hex": "0x8",
+  "analysis_hints": {
+    "mostly_zeros": "100.0% zeros (possibly unused/cleared data)",
+    "first_bytes_hex": "00-00-00-00-00-00-00-00",
+    "possible_type": "Might be a u64/i64/double or two u32 values"
+  }
+}

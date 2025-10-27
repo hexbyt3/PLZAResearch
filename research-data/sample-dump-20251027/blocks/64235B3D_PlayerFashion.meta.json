@@ -1,0 +1,11 @@
+{
+  "key": "0x64235B3D",
+  "key_decimal": 1680038717,
+  "name": "PlayerFashion",
+  "is_unknown": false,
+  "type": "Object",
+  "subtype": null,
+  "size": 104,
+  "size_hex": "0x68",
+  "analysis_hints": null
+}

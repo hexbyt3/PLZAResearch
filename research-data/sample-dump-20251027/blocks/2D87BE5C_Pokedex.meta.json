@@ -1,0 +1,11 @@
+{
+  "key": "0x2D87BE5C",
+  "key_decimal": 763870812,
+  "name": "Pokedex",
+  "is_unknown": false,
+  "type": "Object",
+  "subtype": null,
+  "size": 159848,
+  "size_hex": "0x27068",
+  "analysis_hints": null
+}

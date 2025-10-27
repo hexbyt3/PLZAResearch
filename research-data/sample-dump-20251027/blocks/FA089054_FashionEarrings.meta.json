@@ -1,0 +1,11 @@
+{
+  "key": "0xFA089054",
+  "key_decimal": 4194865236,
+  "name": "FashionEarrings",
+  "is_unknown": false,
+  "type": "Object",
+  "subtype": null,
+  "size": 2400,
+  "size_hex": "0x960",
+  "analysis_hints": null
+}

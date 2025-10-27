@@ -1,0 +1,14 @@
+{
+  "key": "0x9EA30E65",
+  "key_decimal": 2661486181,
+  "name": "Unknown_9EA30E65",
+  "is_unknown": true,
+  "type": "UInt64",
+  "subtype": null,
+  "size": 8,
+  "size_hex": "0x8",
+  "analysis_hints": {
+    "first_bytes_hex": "A6-D9-34-01-00-00-00-00",
+    "possible_type": "Might be a u64/i64/double or two u32 values"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "key": "0x40CC5A21",
+  "key_decimal": 1087134241,
+  "name": "Unknown_40CC5A21",
+  "is_unknown": true,
+  "type": "UInt16",
+  "subtype": null,
+  "size": 2,
+  "size_hex": "0x2",
+  "analysis_hints": {
+    "mostly_zeros": "100.0% zeros (possibly unused/cleared data)",
+    "first_bytes_hex": "00-00"
+  }
+}

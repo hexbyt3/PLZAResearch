@@ -1,0 +1,11 @@
+{
+  "key": "0x08B59D02",
+  "key_decimal": 146119938,
+  "name": "PictureSBCHeight",
+  "is_unknown": false,
+  "type": "UInt32",
+  "subtype": null,
+  "size": 4,
+  "size_hex": "0x4",
+  "analysis_hints": null
+}

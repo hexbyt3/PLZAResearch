@@ -1,0 +1,14 @@
+{
+  "key": "0xB654DB77",
+  "key_decimal": 3059014519,
+  "name": "Unknown_B654DB77",
+  "is_unknown": true,
+  "type": "Object",
+  "subtype": null,
+  "size": 652,
+  "size_hex": "0x28C",
+  "analysis_hints": {
+    "first_bytes_hex": "00-00-26-01-30-82-01-22-30-0D-06-09-2A-86-48-86",
+    "size_note": "Size is divisible by 4 (163 potential u32 values)"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "key": "0xCE3AF8F2",
+  "key_decimal": 3459971314,
+  "name": "PlayedSeconds",
+  "is_unknown": false,
+  "type": "Double",
+  "subtype": null,
+  "size": 8,
+  "size_hex": "0x8",
+  "analysis_hints": null
+}

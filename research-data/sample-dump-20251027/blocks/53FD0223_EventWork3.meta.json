@@ -1,0 +1,11 @@
+{
+  "key": "0x53FD0223",
+  "key_decimal": 1409090083,
+  "name": "EventWork3",
+  "is_unknown": false,
+  "type": "Object",
+  "subtype": null,
+  "size": 288000,
+  "size_hex": "0x46500",
+  "analysis_hints": null
+}

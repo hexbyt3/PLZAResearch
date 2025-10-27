@@ -1,0 +1,15 @@
+{
+  "key": "0xBAEF1BD4",
+  "key_decimal": 3136232404,
+  "name": "Unknown_BAEF1BD4",
+  "is_unknown": true,
+  "type": "Object",
+  "subtype": null,
+  "size": 690,
+  "size_hex": "0x2B2",
+  "analysis_hints": {
+    "mostly_zeros": "100.0% zeros (possibly unused/cleared data)",
+    "pattern": "Repeating 4-byte pattern: 00-00-00-00",
+    "first_bytes_hex": "00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00"
+  }
+}

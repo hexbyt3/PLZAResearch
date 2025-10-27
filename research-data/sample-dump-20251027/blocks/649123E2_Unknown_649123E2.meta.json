@@ -1,0 +1,16 @@
+{
+  "key": "0x649123E2",
+  "key_decimal": 1687233506,
+  "name": "Unknown_649123E2",
+  "is_unknown": true,
+  "type": "Array",
+  "subtype": "UInt16",
+  "size": 204,
+  "size_hex": "0xCC",
+  "analysis_hints": {
+    "mostly_zeros": "100.0% zeros (possibly unused/cleared data)",
+    "pattern": "Repeating 4-byte pattern: 00-00-00-00",
+    "first_bytes_hex": "00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00",
+    "size_note": "Size is divisible by 4 (51 potential u32 values)"
+  }
+}

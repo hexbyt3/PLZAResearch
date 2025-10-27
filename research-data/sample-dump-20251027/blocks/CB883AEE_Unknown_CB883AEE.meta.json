@@ -1,0 +1,14 @@
+{
+  "key": "0xCB883AEE",
+  "key_decimal": 3414702830,
+  "name": "Unknown_CB883AEE",
+  "is_unknown": true,
+  "type": "Int32",
+  "subtype": null,
+  "size": 4,
+  "size_hex": "0x4",
+  "analysis_hints": {
+    "first_bytes_hex": "06-00-00-00",
+    "possible_type": "Might be a single u32/i32/float value"
+  }
+}

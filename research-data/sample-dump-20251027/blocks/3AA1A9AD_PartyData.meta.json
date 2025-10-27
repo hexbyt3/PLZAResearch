@@ -1,0 +1,11 @@
+{
+  "key": "0x3AA1A9AD",
+  "key_decimal": 983673261,
+  "name": "PartyData",
+  "is_unknown": false,
+  "type": "Object",
+  "subtype": null,
+  "size": 2880,
+  "size_hex": "0xB40",
+  "analysis_hints": null
+}

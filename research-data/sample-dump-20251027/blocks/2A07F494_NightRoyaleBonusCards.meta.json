@@ -1,0 +1,11 @@
+{
+  "key": "0x2A07F494",
+  "key_decimal": 705164436,
+  "name": "NightRoyaleBonusCards",
+  "is_unknown": false,
+  "type": "Object",
+  "subtype": null,
+  "size": 768,
+  "size_hex": "0x300",
+  "analysis_hints": null
+}

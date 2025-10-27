@@ -1,0 +1,11 @@
+{
+  "key": "0xB9B223B9",
+  "key_decimal": 3115459513,
+  "name": "EventWorkQuest",
+  "is_unknown": false,
+  "type": "Object",
+  "subtype": null,
+  "size": 16384,
+  "size_hex": "0x4000",
+  "analysis_hints": null
+}

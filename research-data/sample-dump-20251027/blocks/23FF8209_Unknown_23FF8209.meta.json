@@ -1,0 +1,14 @@
+{
+  "key": "0x23FF8209",
+  "key_decimal": 603947529,
+  "name": "Unknown_23FF8209",
+  "is_unknown": true,
+  "type": "UInt16",
+  "subtype": null,
+  "size": 2,
+  "size_hex": "0x2",
+  "analysis_hints": {
+    "mostly_zeros": "100.0% zeros (possibly unused/cleared data)",
+    "first_bytes_hex": "00-00"
+  }
+}

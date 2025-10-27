@@ -1,0 +1,11 @@
+{
+  "key": "0x9A730DE1",
+  "key_decimal": 2591231457,
+  "name": "TicketPointsZARoyale",
+  "is_unknown": false,
+  "type": "UInt32",
+  "subtype": null,
+  "size": 4,
+  "size_hex": "0x4",
+  "analysis_hints": null
+}

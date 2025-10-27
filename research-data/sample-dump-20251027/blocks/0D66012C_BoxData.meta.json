@@ -1,0 +1,11 @@
+{
+  "key": "0x0D66012C",
+  "key_decimal": 224788780,
+  "name": "BoxData",
+  "is_unknown": false,
+  "type": "Object",
+  "subtype": null,
+  "size": 391680,
+  "size_hex": "0x5FA00",
+  "analysis_hints": null
+}

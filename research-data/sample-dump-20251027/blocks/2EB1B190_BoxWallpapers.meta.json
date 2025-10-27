@@ -1,0 +1,11 @@
+{
+  "key": "0x2EB1B190",
+  "key_decimal": 783397264,
+  "name": "BoxWallpapers",
+  "is_unknown": false,
+  "type": "Array",
+  "subtype": "Byte",
+  "size": 32,
+  "size_hex": "0x20",
+  "analysis_hints": null
+}

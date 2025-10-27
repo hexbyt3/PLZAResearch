@@ -1,0 +1,14 @@
+{
+  "key": "0x11796819",
+  "key_decimal": 293169177,
+  "name": "Unknown_11796819",
+  "is_unknown": true,
+  "type": "Object",
+  "subtype": null,
+  "size": 16384,
+  "size_hex": "0x4000",
+  "analysis_hints": {
+    "first_bytes_hex": "45-26-22-84-E4-9C-F2-CB-45-26-22-84-E4-9C-F2-CB",
+    "size_note": "Size is divisible by 4 (4096 potential u32 values)"
+  }
+}

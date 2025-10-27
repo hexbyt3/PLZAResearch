@@ -1,0 +1,11 @@
+{
+  "key": "0x70CDE2DF",
+  "key_decimal": 1892541151,
+  "name": "PictureSBCWidth",
+  "is_unknown": false,
+  "type": "UInt32",
+  "subtype": null,
+  "size": 4,
+  "size_hex": "0x4",
+  "analysis_hints": null
+}

@@ -1,0 +1,11 @@
+{
+  "key": "0x21C9BD44",
+  "key_decimal": 566869316,
+  "name": "Items",
+  "is_unknown": false,
+  "type": "Object",
+  "subtype": null,
+  "size": 48128,
+  "size_hex": "0xBC00",
+  "analysis_hints": null
+}

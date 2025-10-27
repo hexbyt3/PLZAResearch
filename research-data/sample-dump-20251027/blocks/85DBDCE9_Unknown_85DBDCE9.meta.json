@@ -1,0 +1,14 @@
+{
+  "key": "0x85DBDCE9",
+  "key_decimal": 2245778665,
+  "name": "Unknown_85DBDCE9",
+  "is_unknown": true,
+  "type": "Object",
+  "subtype": null,
+  "size": 12,
+  "size_hex": "0xC",
+  "analysis_hints": {
+    "first_bytes_hex": "15-00-00-00-14-00-00-00-30-5C-00-00",
+    "size_note": "Size is divisible by 4 (3 potential u32 values)"
+  }
+}

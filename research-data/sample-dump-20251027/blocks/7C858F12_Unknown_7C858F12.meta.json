@@ -1,0 +1,15 @@
+{
+  "key": "0x7C858F12",
+  "key_decimal": 2089127698,
+  "name": "Unknown_7C858F12",
+  "is_unknown": true,
+  "type": "UInt64",
+  "subtype": null,
+  "size": 8,
+  "size_hex": "0x8",
+  "analysis_hints": {
+    "mostly_zeros": "100.0% zeros (possibly unused/cleared data)",
+    "first_bytes_hex": "00-00-00-00-00-00-00-00",
+    "possible_type": "Might be a u64/i64/double or two u32 values"
+  }
+}

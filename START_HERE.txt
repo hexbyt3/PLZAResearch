@@ -1,0 +1,85 @@
+================================================================================
+    Pokemon Legends: Z-A Save File Dumper
+    C# WinForms Application - NO PYTHON REQUIRED!
+================================================================================
+
+Quick Start:
+
+  Just double-click:  LAUNCH.bat
+
+  That's it! The application will open automatically.
+
+
+What This Does:
+  - Opens a Windows application (WinForms GUI)
+  - No Python installation needed
+  - No pip/dependency issues
+  - Uses .NET 9.0 (already installed if you have PKHeX built)
+  - Decrypts Z-A save files with SwishCrypto
+  - Dumps all 104+ blocks for research
+
+
+Requirements:
+  ✓ .NET 9.0 Runtime (or SDK) - Already installed!
+  ✓ Windows - This is a native Windows app
+  ✓ PKHeX.Core.dll - Already included in lib/ folder
+
+
+First Time:
+  The first time you run LAUNCH.bat, it will automatically build
+  the application. This takes about 5 seconds. After that, it starts instantly.
+
+
+Manual Build (Optional):
+  If you want to build manually:
+    1. Double-click Build.bat
+    2. Run PLZASaveDumper.exe from bin\Release\net9.0-windows\
+
+  Or from command line:
+    dotnet build -c Release
+    bin\Release\net9.0-windows\PLZASaveDumper.exe
+
+
+Usage:
+  1. Click "Browse..." to select your save file
+  2. Choose output directory (or use default "dumps")
+  3. Click "Decrypt & Dump Save"
+  4. Wait for processing (progress bar shows status)
+  5. Output folder opens automatically when done
+
+
+Output:
+  Same structure as Python version:
+    dumps/dump_YYYYMMDD_HHMMSS/
+    ├── blocks/              # All 104+ blocks
+    ├── structured/          # Party, boxes, items
+    ├── block_index.json
+    ├── block_index.csv
+    └── save_metadata.json
+
+
+Why This Is Better Than Python:
+  ✅ No Python/pip installation hassles
+  ✅ Faster startup and execution
+  ✅ Native Windows look and feel
+  ✅ Single .exe file (with dependencies)
+  ✅ Better .NET integration with PKHeX.Core
+
+
+Project Structure:
+  PLZAResearch/
+  ├── LAUNCH.bat              ← Double-click this!
+  ├── Build.bat               ← Manual build
+  ├── Run.bat                 ← Direct run (after build)
+  ├── lib/
+  │   └── PKHeX.Core.dll      ← PKHeX dependency
+  ├── PLZASaveDumper.csproj   ← Project file
+  ├── Program.cs              ← Entry point
+  ├── MainForm.cs             ← Main GUI (500+ lines)
+  ├── BlockNames.cs           ← Block name mappings
+  └── README.md               ← Full documentation
+
+
+================================================================================
+Built with .NET 9.0 and PKHeX.Core - Ready to use!
+================================================================================

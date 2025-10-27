@@ -1,0 +1,11 @@
+{
+  "key": "0xFADA7742",
+  "key_decimal": 4208621378,
+  "name": "EventWork",
+  "is_unknown": false,
+  "type": "Object",
+  "subtype": null,
+  "size": 4096,
+  "size_hex": "0x1000",
+  "analysis_hints": null
+}

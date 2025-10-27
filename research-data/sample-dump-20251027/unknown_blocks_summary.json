@@ -1,0 +1,934 @@
+{
+  "total_unknown": 82,
+  "total_blocks": 162,
+  "note": "These blocks are not yet identified. Compare with other saves or check PKHeX updates.",
+  "how_to_help": "If you figure out what these blocks do, please contribute to PKHeX!",
+  "blocks": [
+    {
+      "key": "0x006ABFB7",
+      "key_decimal": 6995895,
+      "size": 4,
+      "size_hex": "0x4",
+      "type": "UInt32",
+      "hints": {
+        "mostly_zeros": "100.0% zeros (possibly unused/cleared data)",
+        "first_bytes_hex": "00-00-00-00",
+        "possible_type": "Might be a single u32/i32/float value"
+      }
+    },
+    {
+      "key": "0x041137D8",
+      "key_decimal": 68237272,
+      "size": 4,
+      "size_hex": "0x4",
+      "type": "Object",
+      "hints": {
+        "first_bytes_hex": "01-00-00-00",
+        "possible_type": "Might be a single u32/i32/float value"
+      }
+    },
+    {
+      "key": "0x05773961",
+      "key_decimal": 91699553,
+      "size": 4,
+      "size_hex": "0x4",
+      "type": "UInt32",
+      "hints": {
+        "first_bytes_hex": "1B-00-00-00",
+        "possible_type": "Might be a single u32/i32/float value"
+      }
+    },
+    {
+      "key": "0x08D4C4DC",
+      "key_decimal": 148161756,
+      "size": 8,
+      "size_hex": "0x8",
+      "type": "UInt64",
+      "hints": {
+        "mostly_zeros": "100.0% zeros (possibly unused/cleared data)",
+        "first_bytes_hex": "00-00-00-00-00-00-00-00",
+        "possible_type": "Might be a u64/i64/double or two u32 values"
+      }
+    },
+    {
+      "key": "0x0926555A",
+      "key_decimal": 153507162,
+      "size": 8,
+      "size_hex": "0x8",
+      "type": "UInt64",
+      "hints": {
+        "mostly_zeros": "100.0% zeros (possibly unused/cleared data)",
+        "first_bytes_hex": "00-00-00-00-00-00-00-00",
+        "possible_type": "Might be a u64/i64/double or two u32 values"
+      }
+    },
+    {
+      "key": "0x0D49F01C",
+      "key_decimal": 222949404,
+      "size": 8,
+      "size_hex": "0x8",
+      "type": "UInt64",
+      "hints": {
+        "first_bytes_hex": "73-FE-34-01-00-00-00-00",
+        "possible_type": "Might be a u64/i64/double or two u32 values"
+      }
+    },
+    {
+      "key": "0x0F0A6814",
+      "key_decimal": 252340244,
+      "size": 4,
+      "size_hex": "0x4",
+      "type": "UInt32",
+      "hints": {
+        "first_bytes_hex": "01-00-00-00",
+        "possible_type": "Might be a single u32/i32/float value"
+      }
+    },
+    {
+      "key": "0x0FED62EB",
+      "key_decimal": 267215595,
+      "size": 32,
+      "size_hex": "0x20",
+      "type": "Object",
+      "hints": {
+        "mostly_zeros": "96.9% zeros (possibly unused/cleared data)",
+        "first_bytes_hex": "00-01-00-00-00-00-00-00-00-00-00-00-00-00-00-00",
+        "size_note": "Size is divisible by 4 (8 potential u32 values)"
+      }
+    },
+    {
+      "key": "0x10789EC8",
+      "key_decimal": 276340424,
+      "size": 4,
+      "size_hex": "0x4",
+      "type": "UInt32",
+      "hints": {
+        "first_bytes_hex": "A8-41-01-00",
+        "possible_type": "Might be a single u32/i32/float value"
+      }
+    },
+    {
+      "key": "0x10B0677E",
+      "key_decimal": 279996286,
+      "size": 320,
+      "size_hex": "0x140",
+      "type": "Object",
+      "hints": {
+        "first_bytes_hex": "0F-00-00-00-00-00-00-00-0E-00-00-00-00-00-00-00",
+        "size_note": "Size is divisible by 4 (80 potential u32 values)"
+      }
+    },
+    {
+      "key": "0x11796819",
+      "key_decimal": 293169177,
+      "size": 16384,
+      "size_hex": "0x4000",
+      "type": "Object",
+      "hints": {
+        "first_bytes_hex": "45-26-22-84-E4-9C-F2-CB-45-26-22-84-E4-9C-F2-CB",
+        "size_note": "Size is divisible by 4 (4096 potential u32 values)"
+      }
+    },
+    {
+      "key": "0x150F04DB",
+      "key_decimal": 353305819,
+      "size": 2304,
+      "size_hex": "0x900",
+      "type": "Object",
+      "hints": {
+        "mostly_zeros": "98.9% zeros (possibly unused/cleared data)",
+        "pattern": "Repeating 4-byte pattern: 00-00-00-00",
+        "first_bytes_hex": "00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00",
+        "size_note": "Size is divisible by 4 (576 potential u32 values)"
+      }
+    },
+    {
+      "key": "0x1720A5E0",
+      "key_decimal": 388015584,
+      "size": 1024,
+      "size_hex": "0x400",
+      "type": "Object",
+      "hints": {
+        "mostly_zeros": "100.0% zeros (possibly unused/cleared data)",
+        "pattern": "Repeating 4-byte pattern: 00-00-00-00",
+        "first_bytes_hex": "00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00",
+        "size_note": "Size is divisible by 4 (256 potential u32 values)"
+      }
+    },
+    {
+      "key": "0x1866780C",
+      "key_decimal": 409368588,
+      "size": 228,
+      "size_hex": "0xE4",
+      "type": "Object",
+      "hints": {
+        "first_bytes_hex": "01-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00",
+        "size_note": "Size is divisible by 4 (57 potential u32 values)"
+      }
+    },
+    {
+      "key": "0x18A80B0E",
+      "key_decimal": 413666062,
+      "size": 32768,
+      "size_hex": "0x8000",
+      "type": "Object",
+      "hints": {
+        "first_bytes_hex": "61-30-35-30-31-5F-62-30-31-00-00-00-00-00-00-00",
+        "size_note": "Size is divisible by 4 (8192 potential u32 values)"
+      }
+    },
+    {
+      "key": "0x19FC5B7B",
+      "key_decimal": 435968891,
+      "size": 4,
+      "size_hex": "0x4",
+      "type": "Object",
+      "hints": {
+        "first_bytes_hex": "D4-00-00-00",
+        "possible_type": "Might be a single u32/i32/float value"
+      }
+    },
+    {
+      "key": "0x1C91B58A",
+      "key_decimal": 479311242,
+      "size": 8,
+      "size_hex": "0x8",
+      "type": "UInt64",
+      "hints": {
+        "mostly_zeros": "100.0% zeros (possibly unused/cleared data)",
+        "first_bytes_hex": "00-00-00-00-00-00-00-00",
+        "possible_type": "Might be a u64/i64/double or two u32 values"
+      }
+    },
+    {
+      "key": "0x1CDCD72D",
+      "key_decimal": 484235053,
+      "size": 32,
+      "size_hex": "0x20",
+      "type": "Object",
+      "hints": {
+        "first_bytes_hex": "14-00-00-00-00-00-00-00-00-00-00-00-C5-9D-1C-81",
+        "size_note": "Size is divisible by 4 (8 potential u32 values)"
+      }
+    },
+    {
+      "key": "0x20487806",
+      "key_decimal": 541620230,
+      "size": 68,
+      "size_hex": "0x44",
+      "type": "Object",
+      "hints": {
+        "mostly_zeros": "100.0% zeros (possibly unused/cleared data)",
+        "pattern": "Repeating 4-byte pattern: 00-00-00-00",
+        "first_bytes_hex": "00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00",
+        "size_note": "Size is divisible by 4 (17 potential u32 values)"
+      }
+    },
+    {
+      "key": "0x21BB87D5",
+      "key_decimal": 565938133,
+      "size": 24,
+      "size_hex": "0x18",
+      "type": "Object",
+      "hints": {
+        "mostly_zeros": "95.8% zeros (possibly unused/cleared data)",
+        "first_bytes_hex": "01-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00",
+        "size_note": "Size is divisible by 4 (6 potential u32 values)"
+      }
+    },
+    {
+      "key": "0x23FF8209",
+      "key_decimal": 603947529,
+      "size": 2,
+      "size_hex": "0x2",
+      "type": "UInt16",
+      "hints": {
+        "mostly_zeros": "100.0% zeros (possibly unused/cleared data)",
+        "first_bytes_hex": "00-00"
+      }
+    },
+    {
+      "key": "0x2A192063",
+      "key_decimal": 706289763,
+      "size": 3072,
+      "size_hex": "0xC00",
+      "type": "Object",
+      "hints": {
+        "first_bytes_hex": "30-00-00-00-FF-FF-FF-FF-00-00-00-00-2F-00-00-00",
+        "size_note": "Size is divisible by 4 (768 potential u32 values)"
+      }
+    },
+    {
+      "key": "0x2C5A822A",
+      "key_decimal": 744129066,
+      "size": 8,
+      "size_hex": "0x8",
+      "type": "UInt64",
+      "hints": {
+        "mostly_zeros": "100.0% zeros (possibly unused/cleared data)",
+        "first_bytes_hex": "00-00-00-00-00-00-00-00",
+        "possible_type": "Might be a u64/i64/double or two u32 values"
+      }
+    },
+    {
+      "key": "0x31379AF7",
+      "key_decimal": 825727735,
+      "size": 40,
+      "size_hex": "0x28",
+      "type": "Object",
+      "hints": {
+        "first_bytes_hex": "61-30-32-30-31-5F-62-30-31-00-00-00-00-00-00-00",
+        "size_note": "Size is divisible by 4 (10 potential u32 values)"
+      }
+    },
+    {
+      "key": "0x33395EDE",
+      "key_decimal": 859397854,
+      "size": 23040,
+      "size_hex": "0x5A00",
+      "type": "Object",
+      "hints": {
+        "mostly_zeros": "97.0% zeros (possibly unused/cleared data)",
+        "first_bytes_hex": "AB-ED-22-57-76-77-5F-78-31-31-31-31-31-30-31-30",
+        "size_note": "Size is divisible by 4 (5760 potential u32 values)"
+      }
+    },
+    {
+      "key": "0x33F30168",
+      "key_decimal": 871563624,
+      "size": 8,
+      "size_hex": "0x8",
+      "type": "UInt64",
+      "hints": {
+        "mostly_zeros": "100.0% zeros (possibly unused/cleared data)",
+        "first_bytes_hex": "00-00-00-00-00-00-00-00",
+        "possible_type": "Might be a u64/i64/double or two u32 values"
+      }
+    },
+    {
+      "key": "0x34597EF7",
+      "key_decimal": 878280439,
+      "size": 8,
+      "size_hex": "0x8",
+      "type": "Double",
+      "hints": {
+        "first_bytes_hex": "00-0C-14-D0-5B-40-D7-40",
+        "possible_type": "Might be a u64/i64/double or two u32 values"
+      }
+    },
+    {
+      "key": "0x385BD589",
+      "key_decimal": 945542537,
+      "size": 4,
+      "size_hex": "0x4",
+      "type": "UInt32",
+      "hints": {
+        "first_bytes_hex": "C8-E1-00-00",
+        "possible_type": "Might be a single u32/i32/float value"
+      }
+    },
+    {
+      "key": "0x40CC5A21",
+      "key_decimal": 1087134241,
+      "size": 2,
+      "size_hex": "0x2",
+      "type": "UInt16",
+      "hints": {
+        "mostly_zeros": "100.0% zeros (possibly unused/cleared data)",
+        "first_bytes_hex": "00-00"
+      }
+    },
+    {
+      "key": "0x41D869BD",
+      "key_decimal": 1104701885,
+      "size": 4,
+      "size_hex": "0x4",
+      "type": "UInt32",
+      "hints": {
+        "first_bytes_hex": "04-00-00-00",
+        "possible_type": "Might be a single u32/i32/float value"
+      }
+    },
+    {
+      "key": "0x4B5C1B96",
+      "key_decimal": 1264327574,
+      "size": 32768,
+      "size_hex": "0x8000",
+      "type": "Object",
+      "hints": {
+        "first_bytes_hex": "61-30-35-30-31-5F-62-30-31-00-00-00-00-00-00-00",
+        "size_note": "Size is divisible by 4 (8192 potential u32 values)"
+      }
+    },
+    {
+      "key": "0x4BF1E19C",
+      "key_decimal": 1274143132,
+      "size": 8,
+      "size_hex": "0x8",
+      "type": "UInt64",
+      "hints": {
+        "first_bytes_hex": "06-00-00-00-00-00-00-00",
+        "possible_type": "Might be a u64/i64/double or two u32 values"
+      }
+    },
+    {
+      "key": "0x5CD6F27B",
+      "key_decimal": 1557590651,
+      "size": 4,
+      "size_hex": "0x4",
+      "type": "UInt32",
+      "hints": {
+        "first_bytes_hex": "01-00-00-00",
+        "possible_type": "Might be a single u32/i32/float value"
+      }
+    },
+    {
+      "key": "0x5D2A4162",
+      "key_decimal": 1563050338,
+      "size": 4,
+      "size_hex": "0x4",
+      "type": "UInt32",
+      "hints": {
+        "first_bytes_hex": "01-00-00-00",
+        "possible_type": "Might be a single u32/i32/float value"
+      }
+    },
+    {
+      "key": "0x618477B1",
+      "key_decimal": 1636071345,
+      "size": 8,
+      "size_hex": "0x8",
+      "type": "UInt64",
+      "hints": {
+        "first_bytes_hex": "BA-D9-34-01-00-00-00-00",
+        "possible_type": "Might be a u64/i64/double or two u32 values"
+      }
+    },
+    {
+      "key": "0x6249C002",
+      "key_decimal": 1649000450,
+      "size": 32,
+      "size_hex": "0x20",
+      "type": "Object",
+      "hints": {
+        "first_bytes_hex": "0C-00-00-00-00-00-00-00-00-00-00-00-C5-9D-1C-81",
+        "size_note": "Size is divisible by 4 (8 potential u32 values)"
+      }
+    },
+    {
+      "key": "0x649123E2",
+      "key_decimal": 1687233506,
+      "size": 204,
+      "size_hex": "0xCC",
+      "type": "Array",
+      "hints": {
+        "mostly_zeros": "100.0% zeros (possibly unused/cleared data)",
+        "pattern": "Repeating 4-byte pattern: 00-00-00-00",
+        "first_bytes_hex": "00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00",
+        "size_note": "Size is divisible by 4 (51 potential u32 values)"
+      }
+    },
+    {
+      "key": "0x698521C7",
+      "key_decimal": 1770332615,
+      "size": 8,
+      "size_hex": "0x8",
+      "type": "UInt64",
+      "hints": {
+        "first_bytes_hex": "F0-D8-34-01-00-00-00-00",
+        "possible_type": "Might be a u64/i64/double or two u32 values"
+      }
+    },
+    {
+      "key": "0x6AC77BA1",
+      "key_decimal": 1791458209,
+      "size": 104,
+      "size_hex": "0x68",
+      "type": "Object",
+      "hints": {
+        "mostly_zeros": "100.0% zeros (possibly unused/cleared data)",
+        "pattern": "Repeating 4-byte pattern: 00-00-00-00",
+        "first_bytes_hex": "00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00",
+        "size_note": "Size is divisible by 4 (26 potential u32 values)"
+      }
+    },
+    {
+      "key": "0x6BE9A4DA",
+      "key_decimal": 1810474202,
+      "size": 8,
+      "size_hex": "0x8",
+      "type": "UInt64",
+      "hints": {
+        "mostly_zeros": "100.0% zeros (possibly unused/cleared data)",
+        "first_bytes_hex": "00-00-00-00-00-00-00-00",
+        "possible_type": "Might be a u64/i64/double or two u32 values"
+      }
+    },
+    {
+      "key": "0x6C585058",
+      "key_decimal": 1817727064,
+      "size": 8,
+      "size_hex": "0x8",
+      "type": "UInt64",
+      "hints": {
+        "first_bytes_hex": "06-00-00-00-00-00-00-00",
+        "possible_type": "Might be a u64/i64/double or two u32 values"
+      }
+    },
+    {
+      "key": "0x6F11121F",
+      "key_decimal": 1863389727,
+      "size": 128,
+      "size_hex": "0x80",
+      "type": "Object",
+      "hints": {
+        "pattern": "Repeating 4-byte pattern: 00-00-80-BF",
+        "first_bytes_hex": "00-00-80-BF-00-00-80-BF-00-00-80-BF-00-00-80-BF",
+        "size_note": "Size is divisible by 4 (32 potential u32 values)"
+      }
+    },
+    {
+      "key": "0x703B681A",
+      "key_decimal": 1882941466,
+      "size": 8,
+      "size_hex": "0x8",
+      "type": "UInt64",
+      "hints": {
+        "first_bytes_hex": "09-FE-34-01-00-00-00-00",
+        "possible_type": "Might be a u64/i64/double or two u32 values"
+      }
+    },
+    {
+      "key": "0x711A8242",
+      "key_decimal": 1897562690,
+      "size": 8,
+      "size_hex": "0x8",
+      "type": "UInt64",
+      "hints": {
+        "mostly_zeros": "100.0% zeros (possibly unused/cleared data)",
+        "first_bytes_hex": "00-00-00-00-00-00-00-00",
+        "possible_type": "Might be a u64/i64/double or two u32 values"
+      }
+    },
+    {
+      "key": "0x7211D868",
+      "key_decimal": 1913772136,
+      "size": 256,
+      "size_hex": "0x100",
+      "type": "Object",
+      "hints": {
+        "first_bytes_hex": "74-31-00-00-00-00-00-00-00-00-00-00-00-00-00-00",
+        "size_note": "Size is divisible by 4 (64 potential u32 values)"
+      }
+    },
+    {
+      "key": "0x7378188A",
+      "key_decimal": 1937250442,
+      "size": 32,
+      "size_hex": "0x20",
+      "type": "Object",
+      "hints": {
+        "first_bytes_hex": "0C-00-00-00-00-00-00-00-00-00-00-00-C5-9D-1C-81",
+        "size_note": "Size is divisible by 4 (8 potential u32 values)"
+      }
+    },
+    {
+      "key": "0x79ABCB0B",
+      "key_decimal": 2041301771,
+      "size": 480000,
+      "size_hex": "0x75300",
+      "type": "Object",
+      "hints": {
+        "first_bytes_hex": "BF-D9-D1-55-78-77-3F-40-00-00-00-00-00-00-00-00",
+        "size_note": "Size is divisible by 4 (120000 potential u32 values)"
+      }
+    },
+    {
+      "key": "0x7C008151",
+      "key_decimal": 2080407889,
+      "size": 4,
+      "size_hex": "0x4",
+      "type": "UInt32",
+      "hints": {
+        "first_bytes_hex": "90-47-E1-C6",
+        "possible_type": "Might be a single u32/i32/float value"
+      }
+    },
+    {
+      "key": "0x7C858F12",
+      "key_decimal": 2089127698,
+      "size": 8,
+      "size_hex": "0x8",
+      "type": "UInt64",
+      "hints": {
+        "mostly_zeros": "100.0% zeros (possibly unused/cleared data)",
+        "first_bytes_hex": "00-00-00-00-00-00-00-00",
+        "possible_type": "Might be a u64/i64/double or two u32 values"
+      }
+    },
+    {
+      "key": "0x7DC11835",
+      "key_decimal": 2109806645,
+      "size": 20480,
+      "size_hex": "0x5000",
+      "type": "Object",
+      "hints": {
+        "mostly_zeros": "100.0% zeros (possibly unused/cleared data)",
+        "pattern": "Repeating 4-byte pattern: 00-00-00-00",
+        "first_bytes_hex": "00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00",
+        "size_note": "Size is divisible by 4 (5120 potential u32 values)"
+      }
+    },
+    {
+      "key": "0x82EEA400",
+      "key_decimal": 2196677632,
+      "size": 256,
+      "size_hex": "0x100",
+      "type": "Object",
+      "hints": {
+        "first_bytes_hex": "74-31-00-00-00-00-00-00-00-00-00-00-00-00-00-00",
+        "size_note": "Size is divisible by 4 (64 potential u32 values)"
+      }
+    },
+    {
+      "key": "0x835F3F37",
+      "key_decimal": 2204057399,
+      "size": 4,
+      "size_hex": "0x4",
+      "type": "UInt32",
+      "hints": {
+        "mostly_zeros": "100.0% zeros (possibly unused/cleared data)",
+        "first_bytes_hex": "00-00-00-00",
+        "possible_type": "Might be a single u32/i32/float value"
+      }
+    },
+    {
+      "key": "0x85DBDCE9",
+      "key_decimal": 2245778665,
+      "size": 12,
+      "size_hex": "0xC",
+      "type": "Object",
+      "hints": {
+        "first_bytes_hex": "15-00-00-00-14-00-00-00-30-5C-00-00",
+        "size_note": "Size is divisible by 4 (3 potential u32 values)"
+      }
+    },
+    {
+      "key": "0x8881D333",
+      "key_decimal": 2290209587,
+      "size": 8,
+      "size_hex": "0x8",
+      "type": "UInt64",
+      "hints": {
+        "first_bytes_hex": "54-2D-00-00-00-00-00-00",
+        "possible_type": "Might be a u64/i64/double or two u32 values"
+      }
+    },
+    {
+      "key": "0x8C71870A",
+      "key_decimal": 2356250378,
+      "size": 4,
+      "size_hex": "0x4",
+      "type": "UInt32",
+      "hints": {
+        "first_bytes_hex": "01-00-00-00",
+        "possible_type": "Might be a single u32/i32/float value"
+      }
+    },
+    {
+      "key": "0x92EA5F2C",
+      "key_decimal": 2464833324,
+      "size": 48,
+      "size_hex": "0x30",
+      "type": "Object",
+      "hints": {
+        "first_bytes_hex": "00-00-80-3F-CD-CC-4C-BF-00-00-00-00-00-00-80-3F",
+        "size_note": "Size is divisible by 4 (12 potential u32 values)"
+      }
+    },
+    {
+      "key": "0x9590D3F0",
+      "key_decimal": 2509296624,
+      "size": 8,
+      "size_hex": "0x8",
+      "type": "UInt64",
+      "hints": {
+        "first_bytes_hex": "73-FE-34-01-00-00-00-00",
+        "possible_type": "Might be a u64/i64/double or two u32 values"
+      }
+    },
+    {
+      "key": "0x9AD85DFD",
+      "key_decimal": 2597871101,
+      "size": 4,
+      "size_hex": "0x4",
+      "type": "UInt32",
+      "hints": {
+        "first_bytes_hex": "02-00-00-00",
+        "possible_type": "Might be a single u32/i32/float value"
+      }
+    },
+    {
+      "key": "0x9EA30E65",
+      "key_decimal": 2661486181,
+      "size": 8,
+      "size_hex": "0x8",
+      "type": "UInt64",
+      "hints": {
+        "first_bytes_hex": "A6-D9-34-01-00-00-00-00",
+        "possible_type": "Might be a u64/i64/double or two u32 values"
+      }
+    },
+    {
+      "key": "0x9FEC35B4",
+      "key_decimal": 2683057588,
+      "size": 8,
+      "size_hex": "0x8",
+      "type": "UInt64",
+      "hints": {
+        "first_bytes_hex": "12-FE-34-01-00-00-00-00",
+        "possible_type": "Might be a u64/i64/double or two u32 values"
+      }
+    },
+    {
+      "key": "0xA1EDE127",
+      "key_decimal": 2716721447,
+      "size": 8,
+      "size_hex": "0x8",
+      "type": "UInt64",
+      "hints": {
+        "first_bytes_hex": "73-FE-34-01-00-00-00-00",
+        "possible_type": "Might be a u64/i64/double or two u32 values"
+      }
+    },
+    {
+      "key": "0xAB54C91A",
+      "key_decimal": 2874460442,
+      "size": 384,
+      "size_hex": "0x180",
+      "type": "Object",
+      "hints": {
+        "first_bytes_hex": "FE-6D-85-2A-31-2B-5D-32-00-00-00-00-00-00-F0-BF",
+        "size_note": "Size is divisible by 4 (96 potential u32 values)"
+      }
+    },
+    {
+      "key": "0xAC6DD22F",
+      "key_decimal": 2892878383,
+      "size": 8,
+      "size_hex": "0x8",
+      "type": "Object",
+      "hints": {
+        "first_bytes_hex": "F5-54-15-00-00-00-00-00",
+        "possible_type": "Might be a u64/i64/double or two u32 values"
+      }
+    },
+    {
+      "key": "0xAF2165F0",
+      "key_decimal": 2938201584,
+      "size": 12288,
+      "size_hex": "0x3000",
+      "type": "Object",
+      "hints": {
+        "first_bytes_hex": "41-BD-1C-7A-49-03-16-8B-FF-FF-FF-FF-FF-FF-FF-FF",
+        "size_note": "Size is divisible by 4 (3072 potential u32 values)"
+      }
+    },
+    {
+      "key": "0xB654DB77",
+      "key_decimal": 3059014519,
+      "size": 652,
+      "size_hex": "0x28C",
+      "type": "Object",
+      "hints": {
+        "first_bytes_hex": "00-00-26-01-30-82-01-22-30-0D-06-09-2A-86-48-86",
+        "size_note": "Size is divisible by 4 (163 potential u32 values)"
+      }
+    },
+    {
+      "key": "0xB7BA6680",
+      "key_decimal": 3082446464,
+      "size": 1,
+      "size_hex": "0x1",
+      "type": "Object",
+      "hints": {
+        "first_bytes_hex": "06"
+      }
+    },
+    {
+      "key": "0xB9DBD20C",
+      "key_decimal": 3118191116,
+      "size": 8,
+      "size_hex": "0x8",
+      "type": "UInt64",
+      "hints": {
+        "first_bytes_hex": "72-DA-34-01-00-00-00-00",
+        "possible_type": "Might be a u64/i64/double or two u32 values"
+      }
+    },
+    {
+      "key": "0xBAEF1BD4",
+      "key_decimal": 3136232404,
+      "size": 690,
+      "size_hex": "0x2B2",
+      "type": "Object",
+      "hints": {
+        "mostly_zeros": "100.0% zeros (possibly unused/cleared data)",
+        "pattern": "Repeating 4-byte pattern: 00-00-00-00",
+        "first_bytes_hex": "00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00"
+      }
+    },
+    {
+      "key": "0xBF60CD09",
+      "key_decimal": 3210792201,
+      "size": 4,
+      "size_hex": "0x4",
+      "type": "UInt32",
+      "hints": {
+        "first_bytes_hex": "01-00-00-00",
+        "possible_type": "Might be a single u32/i32/float value"
+      }
+    },
+    {
+      "key": "0xC074374C",
+      "key_decimal": 3228841804,
+      "size": 8,
+      "size_hex": "0x8",
+      "type": "UInt64",
+      "hints": {
+        "first_bytes_hex": "73-FE-34-01-00-00-00-00",
+        "possible_type": "Might be a u64/i64/double or two u32 values"
+      }
+    },
+    {
+      "key": "0xC81B476B",
+      "key_decimal": 3357230955,
+      "size": 8,
+      "size_hex": "0x8",
+      "type": "UInt64",
+      "hints": {
+        "first_bytes_hex": "73-FE-34-01-00-00-00-00",
+        "possible_type": "Might be a u64/i64/double or two u32 values"
+      }
+    },
+    {
+      "key": "0xC9541EB3",
+      "key_decimal": 3377733299,
+      "size": 2,
+      "size_hex": "0x2",
+      "type": "UInt16",
+      "hints": {
+        "mostly_zeros": "100.0% zeros (possibly unused/cleared data)",
+        "first_bytes_hex": "00-00"
+      }
+    },
+    {
+      "key": "0xCB883AEE",
+      "key_decimal": 3414702830,
+      "size": 4,
+      "size_hex": "0x4",
+      "type": "Int32",
+      "hints": {
+        "first_bytes_hex": "06-00-00-00",
+        "possible_type": "Might be a single u32/i32/float value"
+      }
+    },
+    {
+      "key": "0xD1A3FF7B",
+      "key_decimal": 3517185915,
+      "size": 86400,
+      "size_hex": "0x15180",
+      "type": "Object",
+      "hints": {
+        "first_bytes_hex": "C6-04-E8-EE-84-A8-3B-6E-6A-15-C2-A7-87-DE-0E-83",
+        "size_note": "Size is divisible by 4 (21600 potential u32 values)"
+      }
+    },
+    {
+      "key": "0xD1C4A383",
+      "key_decimal": 3519325059,
+      "size": 8,
+      "size_hex": "0x8",
+      "type": "UInt64",
+      "hints": {
+        "first_bytes_hex": "73-FE-34-01-00-00-00-00",
+        "possible_type": "Might be a u64/i64/double or two u32 values"
+      }
+    },
+    {
+      "key": "0xE2CC4DC7",
+      "key_decimal": 3805040071,
+      "size": 4,
+      "size_hex": "0x4",
+      "type": "UInt32",
+      "hints": {
+        "first_bytes_hex": "04-00-00-00",
+        "possible_type": "Might be a single u32/i32/float value"
+      }
+    },
+    {
+      "key": "0xE348ED9D",
+      "key_decimal": 3813207453,
+      "size": 0,
+      "size_hex": "0x0",
+      "type": "Bool2",
+      "hints": {
+        "note": "Empty block"
+      }
+    },
+    {
+      "key": "0xE3AFBE89",
+      "key_decimal": 3819945609,
+      "size": 32,
+      "size_hex": "0x20",
+      "type": "Object",
+      "hints": {
+        "first_bytes_hex": "01-00-00-00-00-A0-9B-44-00-60-A7-C4-00-00-00-00",
+        "size_note": "Size is divisible by 4 (8 potential u32 values)"
+      }
+    },
+    {
+      "key": "0xE9A56AA6",
+      "key_decimal": 3919932070,
+      "size": 8,
+      "size_hex": "0x8",
+      "type": "UInt64",
+      "hints": {
+        "first_bytes_hex": "73-FE-34-01-00-00-00-00",
+        "possible_type": "Might be a u64/i64/double or two u32 values"
+      }
+    },
+    {
+      "key": "0xE9DC8427",
+      "key_decimal": 3923543079,
+      "size": 256,
+      "size_hex": "0x100",
+      "type": "Object",
+      "hints": {
+        "first_bytes_hex": "74-31-00-00-00-00-00-00-00-00-00-00-00-00-00-00",
+        "size_note": "Size is divisible by 4 (64 potential u32 values)"
+      }
+    },
+    {
+      "key": "0xEA8121EB",
+      "key_decimal": 3934331371,
+      "size": 1,
+      "size_hex": "0x1",
+      "type": "Byte",
+      "hints": {
+        "first_bytes_hex": "03"
+      }
+    },
+    {
+      "key": "0xF1397E13",
+      "key_decimal": 4047076883,
+      "size": 32768,
+      "size_hex": "0x8000",
+      "type": "Object",
+      "hints": {
+        "first_bytes_hex": "61-30-32-30-32-5F-77-30-32-00-00-00-00-00-00-00",
+        "size_note": "Size is divisible by 4 (8192 potential u32 values)"
+      }
+    }
+  ]
+}

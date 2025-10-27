@@ -1,0 +1,14 @@
+{
+  "key": "0x8881D333",
+  "key_decimal": 2290209587,
+  "name": "Unknown_8881D333",
+  "is_unknown": true,
+  "type": "UInt64",
+  "subtype": null,
+  "size": 8,
+  "size_hex": "0x8",
+  "analysis_hints": {
+    "first_bytes_hex": "54-2D-00-00-00-00-00-00",
+    "possible_type": "Might be a u64/i64/double or two u32 values"
+  }
+}

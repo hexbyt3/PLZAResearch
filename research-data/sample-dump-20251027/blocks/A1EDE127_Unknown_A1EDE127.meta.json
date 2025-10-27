@@ -1,0 +1,14 @@
+{
+  "key": "0xA1EDE127",
+  "key_decimal": 2716721447,
+  "name": "Unknown_A1EDE127",
+  "is_unknown": true,
+  "type": "UInt64",
+  "subtype": null,
+  "size": 8,
+  "size_hex": "0x8",
+  "analysis_hints": {
+    "first_bytes_hex": "73-FE-34-01-00-00-00-00",
+    "possible_type": "Might be a u64/i64/double or two u32 values"
+  }
+}

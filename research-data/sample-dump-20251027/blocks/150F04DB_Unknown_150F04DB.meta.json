@@ -1,0 +1,16 @@
+{
+  "key": "0x150F04DB",
+  "key_decimal": 353305819,
+  "name": "Unknown_150F04DB",
+  "is_unknown": true,
+  "type": "Object",
+  "subtype": null,
+  "size": 2304,
+  "size_hex": "0x900",
+  "analysis_hints": {
+    "mostly_zeros": "98.9% zeros (possibly unused/cleared data)",
+    "pattern": "Repeating 4-byte pattern: 00-00-00-00",
+    "first_bytes_hex": "00-00-00-00-00-00-00-00-00-00-00-00-00-00-00-00",
+    "size_note": "Size is divisible by 4 (576 potential u32 values)"
+  }
+}
