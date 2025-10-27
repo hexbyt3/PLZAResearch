@@ -41,4 +41,18 @@ Used for detecting menu/UI state. Returns 1 byte.
 
 ---
 
+## Online Connection Status
+
+Used for detecting if the player is connected to Nintendo Switch Online. Returns 1 byte.
+
+**Value meanings:**
+- `0x01` = Connected online
+- `0x00` = Offline / not connected
+
+```
+[[[main+5F2A1F0]+18]]+08
+```
+
+---
+
 *Last updated: 2025-10-27*
