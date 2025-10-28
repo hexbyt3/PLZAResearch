@@ -110,4 +110,32 @@ Points to the trade partner's trainer information (TID/SID/Name) during Link Tra
 
 ---
 
-*Last updated: 2025-10-27*
+## MyStatus
+
+Points to the player's trainer status information.
+
+**Pointer (recommended):**
+```
+[main+41F0960]+18
+```
+
+**Alternative pointers:**
+```
+[[[[main+5F2CBC0]+10]+10]+10]+40
+[[[[main+41F08E0]+A8]+10]+10]+40
+[[[[main+5F0B250]+A0]+10]+10]+40
+[[[[main+41F0B00]+278]+10]+10]+40
+[[[main+5F2CBC0]+10]+10]+40
+[[[main+41F08E0]+A8]+10]+40
+[[[main+5F0B250]+A0]+10]+40
+[[[main+41F0B00]+278]+10]+40
+[[main+5F2CBC0]+10]+40
+[[main+41F08E0]+A8]+40
+[[main+5F0B250]+A0]+40
+[[main+41F0B00]+278]+40
+[main+5F2CBC0]+40
+```
+
+---
+
+*Last updated: 2025-10-28*
