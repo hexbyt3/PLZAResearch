@@ -56,8 +56,16 @@ Used for detecting if the player is connected to Nintendo Switch Online. Returns
 - `0x01` = Connected online
 - `0x00` = Offline / not connected
 
+**Pointer (recommended):**
 ```
-[[[main+5F2A1F0]+18]]+08
+[main+3CDDF00]+D35
+```
+
+**Alternative pointers:**
+```
+[main+3DE5790]+D35
+[main+3CDDE10]+E39
+[main+3CDDD28]+E3D
 ```
 
 ---
