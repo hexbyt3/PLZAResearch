@@ -114,22 +114,12 @@ Points to the trade partner's trainer information (TID/SID/Name) during Link Tra
 
 Points to the trade partner's Network ID (NID) during Link Trades.
 
-**Pointers:**
+**Pointer (recommended):**
 ```
-[[[[main+3EFD058]+120]+40]+10]+C8
-[[[[main+3EFD058]+120]+10]+28]+C8
-[[[[main+3EFD058]+120]+20]+28]+C8
-[[[[main+3EFD058]+120]+28]+28]+C8
-[[[[main+3EFD058]+120]+50]+28]+C8
-[[[[main+3EFD058]+E0]+58]+48]+C8
-[[[[main+3EFD058]+120]+38]+10]+C8
-[[[[main+3EFD058]+120]+40]+40]+C8
-[[[[main+3EFD058]+120]+18]+10]+C8
-[[[[main+3EFD058]+120]+38]+48]+C8
-[[[[main+3EFD058]+120]+18]+28]+C8
+[[[[main+3EFD058]+120]+38]+10]+38
 ```
 
-**Pattern:** All pointers share the same base (0x3EFD058) as Trade Partner Trainer Status and all point to offset +0xC8 (200 bytes) within the structure.
+**Pattern:** Shares the same base (0x3EFD058) as Trade Partner Trainer Status.
 
 ---
 
